@@ -22,4 +22,4 @@ You can even put your own server name on index.html in:
     </div>
   </div>
 
-Preview: https://github.com/Marios696969/Tips-System-Fivem/blob/main/preview.png?raw=true
+[Preview: https://github.com/Marios696969/Tips-System-Fivem/blob/main/preview.png?raw=true](https://raw.githubusercontent.com/Marios696969/Tips-System-Fivem/refs/heads/main/preview.png)
