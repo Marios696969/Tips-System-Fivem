@@ -21,3 +21,5 @@ You can even put your own server name on index.html in:
       <div class="message" id="tip2"></div>
     </div>
   </div>
+
+Preview: https://github.com/Marios696969/Tips-System-Fivem/blob/main/preview.png?raw=true
